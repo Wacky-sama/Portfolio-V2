@@ -106,7 +106,7 @@ When I’m not coding, I’m probably tweaking Linux configs, learning how thing
       image: '/projects/project-1.png',
       techStack: ['React', 'TypeScript', 'Tailwind', 'Deno', 'Gemini AI'],
       // liveUrl: 'https://yourportfolio.com',
-      githubUrl: 'https://github.com/Wacky-sama/portfolio-v2',
+      githubUrl: 'https://github.com/Wacky-sama/Portfolio-V2',
       featured: true,
       target: "_blank"
     },
