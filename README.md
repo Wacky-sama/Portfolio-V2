@@ -173,3 +173,5 @@ Note: With or without the `.service`, it will still work!
 - CORS restricted to `kenjibrocks.com` or `your-domain.com` only
 
 ---
+
+Built and self-hosted by `Kenji "Brocks" Tabugadir`
