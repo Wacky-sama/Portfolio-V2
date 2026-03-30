@@ -4,7 +4,7 @@ interface Message {
   timestamp: Date;
 }
 
-const CHAT_API_URL = import.meta.env.VITE_CHAT_API_URL || 'http://localhost:8000/chat';
+const CHAT_API_URL = import.meta.env.VITE_CHAT_API_URL;
 
 export async function sendChatMessage(
   message: string,
