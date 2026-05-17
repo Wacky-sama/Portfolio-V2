@@ -36,7 +36,7 @@ export interface PortfolioData {
 export const portfolioData: PortfolioData = {
   fullName: 'Kenji "Brocks" I. Tabugadir',
   location: 'Cagayan, Philippines',
-  profilePicture: '/profile.jpg',
+  profilePicture: '/profile_me.jpg',
   tagline: 'IT Student | Linux & Server Enthusiast | Full-Stack Developer',
 
   about: `I'm an IT student who loves building, breaking, and rebuilding systems until they actually make sense.
