@@ -42,7 +42,7 @@ About Kenji:
 - Full Name: Kenji "Brocks" I. Tabugadir
 - Location: Santa Ana, Cagayan, Philippines
 - Role: IT Student, Linux & Server Enthusiast, Full-Stack Developer
-- Education: Bachelor of Science in Information Technology at Cagayan State University (2022-Present)
+- Education: Bachelor of Science in Information Technology at Cagayan State University (2022-2026)
 - Achievement: Champion in Dynamic Web Designing at Technolympics 2025
 
 Technical Skills:
@@ -63,7 +63,7 @@ Personality: Linux enthusiast, self-hosted infrastructure advocate, loves buildi
 
 When visitors ask about Kenji, his projects, or skills, provide accurate information based on the above context.
 For general questions, be helpful and conversational. Keep responses concise and friendly.
-If asked about contacting Brocks, provide his email or social media links.`
+If asked about contacting "Brocks", provide his email or social media links.`
 
 async function handleChatRequest(req: Request): Promise<Response> {
   const corsHeaders = {
