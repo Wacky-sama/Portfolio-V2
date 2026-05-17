@@ -36,13 +36,15 @@ export interface PortfolioData {
 export const portfolioData: PortfolioData = {
   fullName: 'Kenji "Brocks" I. Tabugadir',
   location: 'Cagayan, Philippines',
-  profilePicture: '/profile.webp',
-  tagline: 'IT Student | Linux & Server Enthusiast | Full-Stack Developer',
+  profilePicture: '/profile_v2.webp',
+  tagline: 'Linux & Server Enthusiast | Full-Stack Developer',
 
-  about: `I'm an IT student who loves building, breaking, and rebuilding systems until they actually make sense.
+  about: `I'm passionate about building, breaking, and rebuilding systems until they actually make sense.
+
 I work with Linux servers, self-hosted services, and full-stack web applications using React, JavaScript, TypeScript, PHP, and modern backend stacks.
 
 Most of my projects involve deploying real systems on my own server — Docker, firewalls, monitoring, and automation included.
+
 When I’m not coding, I’m probably tweaking Linux configs, learning how things work under the hood, or keeping up with new tech trends.`,
   
   email: 'tabugadirkenjibrocks@gmail.com',
