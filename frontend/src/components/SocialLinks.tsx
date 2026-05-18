@@ -21,7 +21,7 @@ export default function SocialLinks({ socialLinks, email }: SocialLinksProps) {
   };
 
   return (
-    <section className="mt-16 pb-16 border-b border-gray-200">
+    <section className="mt-16 mb-16">
       <h2 className="text-2xl font-bold dark:text-gray-100 mb-6">Connect</h2>
 
       <div className="flex flex-wrap gap-4">

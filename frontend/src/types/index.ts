@@ -35,4 +35,5 @@ export interface ShowcaseItem {
   id: string;
   title: string;
   image: string;
+  size?: 'normal' | 'wide' | 'tall' | 'large';
 }

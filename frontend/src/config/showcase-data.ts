@@ -10,20 +10,24 @@ export const showcaseItems: ShowcaseItem[] = [
     id: 'e1',
     title: 'Group Photo',
     image: groupPhoto,
+    size: 'large',
   },
   {
     id: 'e2',
     title: 'Group Photo with Hats',
     image: groupPhotoHats,
+    size: 'wide',
   },
   {
     id: 'p1',
     title: 'Graduation Photo',
     image: graduationPhoto,
+    size: 'tall',
   },
   {
     id: 'p2',
     title: 'With My Baby',
     image: photoWithGirlFriend,
+    size: 'normal',
   },
 ];

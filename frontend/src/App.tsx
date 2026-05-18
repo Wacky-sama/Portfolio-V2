@@ -3,7 +3,7 @@ import About from './components/About';
 import TechStack from './components/TechStack';
 import Projects from './components/Projects';
 import SocialLinks from './components/SocialLinks';
-import Showcase from './components/Showcase.tsx';
+import Showcase from './components/Showcase';
 import Footer from './components/Footer';
 import ChatWidget from './components/ChatWidget';
 import { portfolioData } from './config/portfolio-data';
