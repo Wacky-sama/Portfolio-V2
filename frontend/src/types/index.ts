@@ -30,3 +30,9 @@ export interface ChatMessage {
   content: string;
   timestamp: Date;
 }
+
+export interface ShowcaseItem {
+  id: string;
+  title: string;
+  image: string;
+}
