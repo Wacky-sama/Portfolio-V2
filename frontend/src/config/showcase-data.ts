@@ -13,12 +13,12 @@ export const showcaseItems: ShowcaseItem[] = [
   },
   {
     id: 'e2',
-    title: 'Hats Event',
+    title: 'Group Photo with Hats',
     image: groupPhotoHats,
   },
   {
     id: 'p1',
-    title: 'Graduation Day',
+    title: 'Graduation Photo',
     image: graduationPhoto,
   },
   {
