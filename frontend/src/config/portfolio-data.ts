@@ -34,9 +34,9 @@ export interface PortfolioData {
 }
 
 export const portfolioData: PortfolioData = {
-  fullName: 'Kenji "Brocks" I. Tabugadir',
+  fullName: 'Kenji "Brocks" Ibus Tabugadir',
   location: 'Cagayan, Philippines',
-  profilePicture: '/profile_v2.webp',
+  profilePicture: '/profile.webp',
   tagline: 'Linux & Server Enthusiast | Full-Stack Developer',
 
   about: `I'm passionate about building, breaking, and rebuilding systems until they actually make sense.
